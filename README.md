@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e94141&size=38&center=true&vCenter=true&width=1000&lines=Hello,+MY+NAME+is+LEONEL+MIGUINS;I'm+28+years+old;I'm+from+Brazil,+Zaire;I+study+Management+IT+at+IPAG;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e94141&size=38&center=true&vCenter=true&width=1000&lines=Hello,+MY+NAME+IS+LEONEL+MIGUINS;I'M+28+YEARS+OLD;I'M+FROM+PARANÁ,+BRASIL;I+study+I+LOVE+CODE;+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonelmiguins&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonel Miguins github stats" /> 
