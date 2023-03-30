@@ -1,4 +1,10 @@
+## Quem sou eu ?
 
+Meu nome é Leonel Miguins e sou um estudante de Análise e Desenvolvimento de Sistemas com uma paixão pela tecnologia e pelo desenvolvimento web. Desde que descobri a web em 2015, tenho me dedicado a aprender e aprimorar minhas habilidades em Node, JavaScript, HTML e CSS.
+
+Ao longo da minha jornada, realizei projetos pessoais e colaborativos que me ajudaram a consolidar minha experiência prática e a aprimorar minha capacidade de trabalhar em equipe. Meu interesse em tecnologia é motivado pelo desejo de criar soluções inovadoras que possam melhorar a vida das pessoas.
+
+Com habilidades técnicas sólidas e uma mentalidade curiosa, busco constantemente desafios que me permitam crescer profissionalmente e agregar valor aos projetos em que me envolvo. Estou aberto a oportunidades de estágio e trabalho que possam ajudar-me a avançar em minha carreira como desenvolvedor.
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leonelmiguins&theme=gotham)
 
