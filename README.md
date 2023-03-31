@@ -6,14 +6,14 @@ Ao longo da minha jornada, realizei projetos pessoais e colaborativos que me aju
 
 Com habilidades técnicas sólidas e uma mentalidade curiosa, busco constantemente desafios que me permitam crescer profissionalmente e agregar valor aos projetos em que me envolvo. Estou aberto a oportunidades de estágio e trabalho que possam ajudar-me a avançar em minha carreira como desenvolvedor.
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leonelmiguins&theme=gotham)
+<div width="70%" >![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leonelmiguins&theme=gotham)</div>
 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=leonelmiguins&theme=dracula&row=2&no-bg=false&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div width="70%" align="center">  
+<div align="center">  
 <a href="https://www.facebook.com/leomiguins/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white"</a>
 </div>
   
@@ -32,6 +32,13 @@ Com habilidades técnicas sólidas e uma mentalidade curiosa, busco constantemen
   
 ### Studying in this moment:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<div align="center">
+  <a href="https://github.com/yure07">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yure07&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yure07&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
