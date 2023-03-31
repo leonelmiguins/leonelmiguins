@@ -34,7 +34,7 @@ Com habilidades técnicas sólidas e uma mentalidade curiosa, busco constantemen
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-  <a href="https://github.com/yure07">
+  <a href="https://github.com/leonelmiguins">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonelmiguins&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonelmiguins&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
